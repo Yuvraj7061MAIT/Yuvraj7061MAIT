@@ -24,7 +24,7 @@
   <a href="yuvraj.singh.mait@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
-  <a href="https://linkedin.com/in/pedro-sales-muniz" target="_blank">
+  <a href="https://www.linkedin.com/in/yuvraj-singh-ml/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank" />
   </a>
   <a href="https://yuvraj7061mait.github.io/My-Portfolio/" target="_blank">
@@ -37,8 +37,8 @@
 <h2 align="center">⚒️ Languages-Frameworks-Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=react,bootstrap,mui,html,css,vscode,github,figma,tailwind,git,r" />
-    <img src="https://skillicons.dev/icons?i=nodejs,python,javascript,typescript,express,firebase,mongodb,c,java,nextjs,mysql,flask" /><br>
+    <img src="https://skillicons.dev/icons?i=java,python,html,css,vscode,github,git,docker" />
+    <img src="https://skillicons.dev/icons?i=java,python,html,css,vscode,github,git,docker" /><br>
 </div>
 
 <br/>
