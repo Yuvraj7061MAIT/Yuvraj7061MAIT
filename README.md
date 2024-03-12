@@ -16,7 +16,7 @@
 
 💬 Ask me about **Java, Machine Learning, Data Analysis... or anything [here](https://github.com/Yuvraj7061MAIT?tab=repositories)**
 
-⚡ Fun fact **We won SIH23 but we were having just 2 people in our group who knows coding.**
+⚡ Fun fact: **I mastered machine learning in just one month to qualify for an internal hackathon, but ended up winning SIH23. Turns out, the only thing I hacked was time!" 😄🏆 #WinningWithSpeed**
 
  </div>
  
