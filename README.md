@@ -83,7 +83,6 @@
         <img src="https://skillicons.dev/icons?i=docker" />
         <img src="https://skillicons.dev/icons?i=github" />
         <img src="https://skillicons.dev/icons?i=mysql" />
-        <img src="https://skillicons.dev/icons?i=jupyter" />
     </div>
 </div>
 
