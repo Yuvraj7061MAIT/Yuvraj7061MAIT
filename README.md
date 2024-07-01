@@ -93,8 +93,7 @@
 <h2 align="center">🚀 Projects 🚀</h2>
 <br/>
 <div align="center">
-<a href="https://github.com/Yuvraj7061MAIT/movie_recommender" style="text-decoration: none; color: inherit;">
-    <h1>Movie Recommender System</h1>
+**Java, Machine Learning, Data Analysis... or anything [here](https://github.com/Yuvraj7061MAIT?tab=repositories)**
 </a>
     <a href="https://github.com/Yuvraj7061MAIT/ESSAY.ML">
     </a>
