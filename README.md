@@ -48,9 +48,9 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=java,html,css,js,python" /><br><br>
-    <img src="https://skillicons.dev/icons?i=sklearn,tensorflow,nltk,spring,flask,dotnet" /><br><br>
-    <img src="https://skillicons.dev/icons?i=express,pandas,numpy,matplotlib,seaborn,powerbi" /><br><br>
-    <img src="https://skillicons.dev/icons?i=postman,pyspark,docker,github,mysql,jupyter" /><br><br>
+    <img src="https://skillicons.dev/icons?i=sklearn,tensorflow,spring,flask,dotnet" /><br><br>
+    <img src="https://skillicons.dev/icons?i=express" /><br><br>
+    <img src="https://skillicons.dev/icons?i=postman,docker,github,mysql,jupyter" /><br><br>
 </div>
 
 <br/>
@@ -71,7 +71,7 @@
 <hr/>
 <br/>
 
-<h2 align="center">🚀 Projects 🚀</h2>
+<h2 align="center">🚀 Previous Repos 🚀</h2>
 <br/>
 <div align="center">
     <a href="https://github.com/Yuvraj7061MAIT/project1">
