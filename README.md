@@ -94,6 +94,7 @@
 <br/>
 <div align="center">
     <a href="https://github.com/Yuvraj7061MAIT/movie_recommender">
+        <h1>Movie Recommender System</h1>
     </a>
     <a href="https://github.com/Yuvraj7061MAIT/ESSAY.ML">
     </a>
