@@ -106,9 +106,7 @@
 <h2 align="center">🌟 Top Repositories 🌟</h2>
 <br/>
 <div align="center">
-    <a href="https://github.com/Yuvraj7061MAIT/lingua-master">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yuvraj7061MAIT&repo=top-repo1&theme=radical" />
-    </a>
+    <h1>Private-Client {https://github.com/Yuvraj7061MAIT/Private-Client}</h1>
     <a href="https://github.com/Yuvraj7061MAIT/Private-Client">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yuvraj7061MAIT&repo=top-repo2&theme=radical" />
     </a>
