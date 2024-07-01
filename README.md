@@ -93,7 +93,7 @@
 <h2 align="center">🚀 Projects 🚀</h2>
 <br/>
 <div align="center">
-**Java, Machine Learning, Data Analysis... or anything [here](https://github.com/Yuvraj7061MAIT?tab=repositories)**
+<h1>Movie Recommernder System</h1> {https://github.com/Yuvraj7061MAIT/movie_recommender}
 </a>
     <a href="https://github.com/Yuvraj7061MAIT/ESSAY.ML">
     </a>
@@ -106,7 +106,7 @@
 <h2 align="center">🌟 Top Repositories 🌟</h2>
 <br/>
 <div align="center">
-    <h1>Private-Client {https://github.com/Yuvraj7061MAIT/Private-Client}</h1>
+    <h1>Private-Client </h1>{https://github.com/Yuvraj7061MAIT/Private-Client}
     <a href="https://github.com/Yuvraj7061MAIT/Private-Client">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yuvraj7061MAIT&repo=top-repo2&theme=radical" />
     </a>
