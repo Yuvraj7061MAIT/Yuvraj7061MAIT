@@ -94,10 +94,8 @@
 <br/>
 <div align="center">
     <a href="https://github.com/Yuvraj7061MAIT/movie_recommender">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yuvraj7061MAIT&repo=project1&theme=radical" />
     </a>
     <a href="https://github.com/Yuvraj7061MAIT/ESSAY.ML">
-        <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yuvraj7061MAIT&repo=project2&theme=radical" />
     </a>
 </div>
 
