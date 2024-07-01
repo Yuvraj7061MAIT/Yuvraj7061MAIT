@@ -86,7 +86,7 @@
 <hr/>
 <br/>
 
-<h2 align="center">🌟 Top Repositories 🌟</h2>
+<h2 align="center">🌟 Top Projects 🌟</h2>
 <br/>
 <div align="center">
     <a href="https://github.com/Yuvraj7061MAIT/top-repo1">
