@@ -47,10 +47,10 @@
 <h2 align="center">⚒️ Languages, Frameworks, and Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=java,html,css,js,python" /><br><br>
-    <img src="https://skillicons.dev/icons?i=sklearn,tensorflow,spring,flask,dotnet" /><br><br>
-    <img src="https://skillicons.dev/icons?i=express" /><br><br>
-    <img src="https://skillicons.dev/icons?i=postman,docker,github,mysql,jupyter" /><br><br>
+    <img class = "a" src="https://skillicons.dev/icons?i=java,html,css,js,python" /><br><br>
+    <img class = "b" src="https://skillicons.dev/icons?i=sklearn,tensorflow,spring,flask,dotnet" /><br><br>
+    <img  class = "c" src="https://skillicons.dev/icons?i=express" /><br><br>
+    <img  class = "d" src="https://skillicons.dev/icons?i=postman,docker,github,mysql,jupyter" /><br><br>
 </div>
 
 <br/>
