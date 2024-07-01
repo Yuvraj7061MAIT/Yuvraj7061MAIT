@@ -46,11 +46,45 @@
 
 <h2 align="center">⚒️ Languages, Frameworks, and Tools ⚒️</h2>
 <br/>
-<div align="center">
-    <img class = "a" src="https://skillicons.dev/icons?i=java,html,css,js,python" /><br><br>
-    <img class = "b" src="https://skillicons.dev/icons?i=sklearn,tensorflow,spring,flask,dotnet" /><br><br>
-    <img  class = "c" src="https://skillicons.dev/icons?i=express" /><br><br>
-    <img  class = "d" src="https://skillicons.dev/icons?i=postman,docker,github,mysql,jupyter" /><br><br>
+<style>
+    .tech-icons img {
+        margin: 10px;
+        transition: transform 0.2s;
+    }
+    .tech-icons img:hover {
+        transform: scale(1.2);
+    }
+    .tech-icons .row {
+        display: flex;
+        justify-content: center;
+        margin-bottom: 15px;
+    }
+</style>
+<div align="center" class="tech-icons">
+    <div class="row">
+        <img src="https://skillicons.dev/icons?i=java" />
+        <img src="https://skillicons.dev/icons?i=html" />
+        <img src="https://skillicons.dev/icons?i=css" />
+        <img src="https://skillicons.dev/icons?i=js" />
+        <img src="https://skillicons.dev/icons?i=python" />
+    </div>
+    <div class="row">
+        <img src="https://skillicons.dev/icons?i=sklearn" />
+        <img src="https://skillicons.dev/icons?i=tensorflow" />
+        <img src="https://skillicons.dev/icons?i=spring" />
+        <img src="https://skillicons.dev/icons?i=flask" />
+        <img src="https://skillicons.dev/icons?i=dotnet" />
+    </div>
+    <div class="row">
+        <img src="https://skillicons.dev/icons?i=express" />
+    </div>
+    <div class="row">
+        <img src="https://skillicons.dev/icons?i=postman" />
+        <img src="https://skillicons.dev/icons?i=docker" />
+        <img src="https://skillicons.dev/icons?i=github" />
+        <img src="https://skillicons.dev/icons?i=mysql" />
+        <img src="https://skillicons.dev/icons?i=jupyter" />
+    </div>
 </div>
 
 <br/>
@@ -71,7 +105,7 @@
 <hr/>
 <br/>
 
-<h2 align="center">🚀 Previous Repos 🚀</h2>
+<h2 align="center">🚀 Projects 🚀</h2>
 <br/>
 <div align="center">
     <a href="https://github.com/Yuvraj7061MAIT/project1">
@@ -86,7 +120,7 @@
 <hr/>
 <br/>
 
-<h2 align="center">🌟 Top Projects 🌟</h2>
+<h2 align="center">🌟 Top Repositories 🌟</h2>
 <br/>
 <div align="center">
     <a href="https://github.com/Yuvraj7061MAIT/top-repo1">
