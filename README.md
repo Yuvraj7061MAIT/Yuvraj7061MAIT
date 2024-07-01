@@ -93,10 +93,10 @@
 <h2 align="center">🚀 Projects 🚀</h2>
 <br/>
 <div align="center">
-    <a href="https://github.com/Yuvraj7061MAIT/project1">
+    <a href="https://github.com/Yuvraj7061MAIT/movie_recommender">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yuvraj7061MAIT&repo=project1&theme=radical" />
     </a>
-    <a href="https://github.com/Yuvraj7061MAIT/project2">
+    <a href="https://github.com/Yuvraj7061MAIT/ESSAY.ML">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yuvraj7061MAIT&repo=project2&theme=radical" />
     </a>
 </div>
@@ -108,10 +108,10 @@
 <h2 align="center">🌟 Top Repositories 🌟</h2>
 <br/>
 <div align="center">
-    <a href="https://github.com/Yuvraj7061MAIT/top-repo1">
+    <a href="https://github.com/Yuvraj7061MAIT/lingua-master">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yuvraj7061MAIT&repo=top-repo1&theme=radical" />
     </a>
-    <a href="https://github.com/Yuvraj7061MAIT/top-repo2">
+    <a href="https://github.com/Yuvraj7061MAIT/Private-Client">
         <img src="https://github-readme-stats.vercel.app/api/pin/?username=Yuvraj7061MAIT&repo=top-repo2&theme=radical" />
     </a>
 </div>
