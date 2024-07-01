@@ -48,12 +48,9 @@
 <br/>
 <div align="center">
     <img src="https://skillicons.dev/icons?i=java,html,css,js,python" /><br><br>
-    <img src="https://skillicons.dev/icons?i=sklearn,tensorflow,nltk" /><br><br>
-    <img src="https://skillicons.dev/icons?i=spring,flask,dotnet" /><br><br>
-    <img src="https://skillicons.dev/icons?i=express,pandas,numpy" /><br><br>
-    <img src="https://skillicons.dev/icons?i=matplotlib,seaborn,powerbi" /><br><br>
-    <img src="https://skillicons.dev/icons?i=postman,pyspark,docker" /><br><br>
-    <img src="https://skillicons.dev/icons?i=github,mysql,jupyter" /><br><br>
+    <img src="https://skillicons.dev/icons?i=sklearn,tensorflow,nltk,spring,flask,dotnet" /><br><br>
+    <img src="https://skillicons.dev/icons?i=express,pandas,numpy,matplotlib,seaborn,powerbi" /><br><br>
+    <img src="https://skillicons.dev/icons?i=postman,pyspark,docker,github,mysql,jupyter" /><br><br>
 </div>
 
 <br/>
@@ -123,5 +120,3 @@
     <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />
   </a>
 </div>
-
-<br/>
