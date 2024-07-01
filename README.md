@@ -94,19 +94,7 @@
 <br/>
 <div align="center">
 <h1>Movie Recommernder System</h1> {https://github.com/Yuvraj7061MAIT/movie_recommender}
-</a>
-    <a href="https://github.com/Yuvraj7061MAIT/ESSAY.ML">
-    </a>
-</div>
-
-<br/>
-<hr/>
-<br/>
-
-<h2 align="center">🌟 Top Repositories 🌟</h2>
-<br/>
-<div align="center">
-    <h1>Private-Client</h1> {https://github.com/Yuvraj7061MAIT/Private-Client}
+<h1>Private-Client</h1> {https://github.com/Yuvraj7061MAIT/Private-Client}
 </div>
 
 <br/>
