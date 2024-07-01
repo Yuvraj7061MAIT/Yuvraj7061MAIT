@@ -47,13 +47,13 @@
 <h2 align="center">⚒️ Languages, Frameworks, and Tools ⚒️</h2>
 <br/>
 <div align="center">
-    <img src="https://skillicons.dev/icons?i=java,html,css,js,python" /><br>
-    <img src="https://skillicons.dev/icons?i=scikit-learn,tensorflow,nltk" /><br>
-    <img src="https://skillicons.dev/icons?i=spring,flask,dotnet" /><br>
-    <img src="https://skillicons.dev/icons?i=express,pandas,numpy" /><br>
-    <img src="https://skillicons.dev/icons?i=matplotlib,seaborn,powerbi" /><br>
-    <img src="https://skillicons.dev/icons?i=postman,pyspark,docker" /><br>
-    <img src="https://skillicons.dev/icons?i=github,mysql,jupyter" /><br>
+    <img src="https://skillicons.dev/icons?i=java,html,css,js,python" /><br><br>
+    <img src="https://skillicons.dev/icons?i=sklearn,tensorflow,nltk" /><br><br>
+    <img src="https://skillicons.dev/icons?i=spring,flask,dotnet" /><br><br>
+    <img src="https://skillicons.dev/icons?i=express,pandas,numpy" /><br><br>
+    <img src="https://skillicons.dev/icons?i=matplotlib,seaborn,powerbi" /><br><br>
+    <img src="https://skillicons.dev/icons?i=postman,pyspark,docker" /><br><br>
+    <img src="https://skillicons.dev/icons?i=github,mysql,jupyter" /><br><br>
 </div>
 
 <br/>
