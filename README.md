@@ -46,20 +46,6 @@
 
 <h2 align="center">⚒️ Languages, Frameworks, and Tools ⚒️</h2>
 <br/>
-<style>
-    .tech-icons img {
-        margin: 10px;
-        transition: transform 0.2s;
-    }
-    .tech-icons img:hover {
-        transform: scale(1.2);
-    }
-    .tech-icons .row {
-        display: flex;
-        justify-content: center;
-        margin-bottom: 15px;
-    }
-</style>
 <div align="center" class="tech-icons">
     <div class="row">
         <img src="https://skillicons.dev/icons?i=java" />
