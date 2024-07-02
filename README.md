@@ -95,7 +95,7 @@
 <div align="center">
 <h1>Movie Recommernder System</h1> {https://github.com/Yuvraj7061MAIT/movie_recommender}
 <h1>Private-Client</h1> {https://github.com/Yuvraj7061MAIT/Private-Client}
-<h>BLog Creator</h1> {https://github.com/Yuvraj7061MAIT/Blog-Creator}
+<h1>BLog Creator</h1> {https://github.com/Yuvraj7061MAIT/Blog-Creator}
 </div>
 
 <br/>
