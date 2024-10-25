@@ -4,7 +4,7 @@
     <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Yuvraj+Singh!;" />
 </h1>
 
-<h3 align="center">A Passionate Machine Learning Engoneer</h3>
+<h3 align="center">A Passionate Machine Learning Engineer</h3>
 
 <br/>
 
@@ -12,9 +12,9 @@
  
  🔭 I’m currently studying at **Maharaja Agrasen Institute of Technology**
  
- 🌱 I’m currently learning **Docker, JavaScript, and Deep Learning**
+ 🌱 I’m currently learning **Docker**
 
-💬 Ask me about **Java, Machine Learning, Data Analysis... or anything [here](https://github.com/Yuvraj7061MAIT?tab=repositories)**
+💬 Ask me about **Java, Machine Learning, Data Science... or anything [here](https://github.com/Yuvraj7061MAIT?tab=repositories)**
 
 ⚡ Fun fact: **I mastered machine learning in just one month to qualify for an internal hackathon, but ended up winning SIH23. Turns out, the only thing I hacked was time! 😄🏆 #WinningWithSpeed**
 
