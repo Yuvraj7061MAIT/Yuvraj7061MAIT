@@ -94,9 +94,9 @@
 <br/>
 <div align="center">
 <h1>Movie Recommernder System</h1> {https://github.com/Yuvraj7061MAIT/movie_recommender}
-<h1>Indavo</h1> {https://github.com/Yuvraj7061MAIT/Blog-Creator}
-<h1>BLog Creator</h1> {https://github.com/Yuvraj7061MAIT/Indavo-FullStack}
-<h1>BLog Creator</h1> {https://github.com/Yuvraj7061MAIT/FinanZ}
+<h1>Blog Creator</h1> {https://github.com/Yuvraj7061MAIT/Blog-Creator}
+<h1>Indavo</h1> {https://github.com/Yuvraj7061MAIT/Indavo-FullStack}
+<h1>FinaZ</h1> {https://github.com/Yuvraj7061MAIT/FinanZ}
 </div>
 
 <br/>
