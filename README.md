@@ -29,7 +29,7 @@
   <a href="https://www.linkedin.com/in/yuvraj-singh-ml/" target="_blank">
     <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="https://yuvrajsingh-ml.netlify.app/" target="_blank">
+  <a href="https://portfolio-yuvraj-git-main-yuvraj7061maits-projects.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
   </a>
 </div>
