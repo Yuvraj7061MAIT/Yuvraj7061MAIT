@@ -1,22 +1,28 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Yuvraj7061MAIT.Yuvraj7061MAIT" />
 
 <h1 align="center">
-    <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=500&height=70&duration=4000&lines=Hi+There!+👋;+I'm+Yuvraj+Singh!;" />
+  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;I'm+Yuvraj+Singh!;AI+Engineer+%7C+ML+%26+Data+Science" />
 </h1>
 
-<h3 align="center">A Passionate Machine Learning Engineer</h3>
+<h3 align="center">
+AI Engineer @ CandiSolar ⚡ | SIH’23 & AYF’24 Winner 🏆 | ML • Data • Clean Energy
+</h3>
 
 <br/>
 
 <div align="center">
- 
- 🔭 I’m currently studying at **Maharaja Agrasen Institute of Technology**
- 
- 🌱 I’m currently learning **Docker**
 
-💬 Ask me about **Java, Machine Learning, Data Science... or anything [here](https://github.com/Yuvraj7061MAIT?tab=repositories)**
+🔭 **Currently working as an AI Engineer at CandiSolar**, building intelligent analytics systems for  
+real-time monitoring and performance optimization of solar power plants.
 
-⚡ Fun fact: **I mastered machine learning in just one month to qualify for an internal hackathon, but ended up winning SIH23. Turns out, the only thing I hacked was time! 😄🏆 #WinningWithSpeed**
+🌱 **Currently learning**: Docker, scalable ML systems & production AI pipelines
+
+💬 Ask me about **Machine Learning, Data Science, NLP, Generative AI, Python, Java**  
+or explore my work 👉 [Repositories](https://github.com/Yuvraj7061MAIT?tab=repositories)
+
+⚡ **Fun fact:** I learned Machine Learning in just one month to qualify for an internal hackathon —  
+and ended up winning **Smart India Hackathon 2023** 🏆  
+Turns out, the only thing I hacked was *time* 😄
 
 </div>
 
@@ -24,13 +30,13 @@
 
 <div align="center"> 
   <a href="mailto:yuvraj.singh.mait@gmail.com">
-    <img src="https://img.shields.io/badge/Gmail-333333?style=for-the-badge&logo=gmail&logoColor=red" />
+    <img src="https://img.shields.io/badge/Gmail-1f1f1f?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
   <a href="https://www.linkedin.com/in/yuvraj-singh-ml/" target="_blank">
-    <img src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white" />
+    <img src="https://img.shields.io/badge/LinkedIn-1f1f1f?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
   </a>
   <a href="https://portfolio-yuvraj-git-main-yuvraj7061maits-projects.vercel.app/" target="_blank">
-    <img src="https://img.shields.io/badge/Portfolio-FF5722?style=for-the-badge&logo=google-chrome&logoColor=white" />
+    <img src="https://img.shields.io/badge/Portfolio-1f1f1f?style=for-the-badge&logo=google-chrome&logoColor=orange" />
   </a>
 </div>
 
@@ -38,32 +44,17 @@
 <hr/>
 <br/>
 
-<h2 align="center">⚒️ Languages, Frameworks, and Tools ⚒️</h2>
+<h2 align="center">⚒️ Tech Stack ⚒️</h2>
 <br/>
-<div align="center" class="tech-icons">
-    <div class="row">
-        <img src="https://skillicons.dev/icons?i=java" />
-        <img src="https://skillicons.dev/icons?i=html" />
-        <img src="https://skillicons.dev/icons?i=css" />
-        <img src="https://skillicons.dev/icons?i=js" />
-        <img src="https://skillicons.dev/icons?i=python" />
-    </div>
-    <div class="row">
-        <img src="https://skillicons.dev/icons?i=sklearn" />
-        <img src="https://skillicons.dev/icons?i=tensorflow" />
-        <img src="https://skillicons.dev/icons?i=spring" />
-        <img src="https://skillicons.dev/icons?i=flask" />
-        <img src="https://skillicons.dev/icons?i=dotnet" />
-    </div>
-    <div class="row">
-        <img src="https://skillicons.dev/icons?i=express" />
-    </div>
-    <div class="row">
-        <img src="https://skillicons.dev/icons?i=postman" />
-        <img src="https://skillicons.dev/icons?i=docker" />
-        <img src="https://skillicons.dev/icons?i=github" />
-        <img src="https://skillicons.dev/icons?i=mysql" />
-    </div>
+
+<div align="center">
+
+<img src="https://skillicons.dev/icons?i=python,java,js,html,css" /><br/>
+<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" /><br/>
+<img src="https://skillicons.dev/icons?i=flask,express,spring" /><br/>
+<img src="https://skillicons.dev/icons?i=mysql,postgres,azure" /><br/>
+<img src="https://skillicons.dev/icons?i=docker,postman,github" />
+
 </div>
 
 <br/>
@@ -72,27 +63,52 @@
 
 <h2 align="center">📈 GitHub Stats 📈</h2>
 <br/>
+
 <div align="center">
-    <img src="https://github-readme-stats.vercel.app/api?username=Yuvraj7061MAIT&show_icons=true&theme=radical" alt="Yuvraj's GitHub stats" />
-    <br/>
-    <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yuvraj7061MAIT&theme=radical" alt="Yuvraj's GitHub Streak" />
-    <br/>
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuvraj7061MAIT&layout=compact&theme=radical" alt="Yuvraj's Top Languages" />
+  <img src="https://github-readme-stats.vercel.app/api?username=Yuvraj7061MAIT&show_icons=true&theme=radical" />
+  <br/><br/>
+  <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yuvraj7061MAIT&theme=radical" />
+  <br/><br/>
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuvraj7061MAIT&layout=compact&theme=radical" />
 </div>
 
 <br/>
 <hr/>
 <br/>
 
-<h2 align="center">🚀 Projects 🚀</h2>
+<h2 align="center">🚀 Featured Projects 🚀</h2>
 <br/>
+
 <div align="center">
-<h1>Movie Recommernder System</h1> {https://github.com/Yuvraj7061MAIT/movie_recommender}
-<h1>Blog Creator</h1> {https://github.com/Yuvraj7061MAIT/Blog-Creator}
-<h1>Indavo</h1> {https://github.com/Yuvraj7061MAIT/Indavo-FullStack}
-<h1>FinaZ</h1> {https://github.com/Yuvraj7061MAIT/FinanZ}
+
+<h3>🎬 Movie Recommender System</h3>
+<p>ML-based recommendation engine using similarity models</p>
+🔗 https://github.com/Yuvraj7061MAIT/movie_recommender
+
+<br/><br/>
+
+<h3>✍️ AI Blog Generator (LLama 2)</h3>
+<p>Generative AI tool for creating blogs using prompt engineering & LLMs</p>
+🔗 https://github.com/Yuvraj7061MAIT/Blog-Creator
+
+<br/><br/>
+
+<h3>💻 Indavo – Full Stack Platform</h3>
+<p>End-to-end full stack application with backend APIs & frontend UI</p>
+🔗 https://github.com/Yuvraj7061MAIT/Indavo-FullStack
+
+<br/><br/>
+
+<h3>💰 FinanZ</h3>
+<p>Finance-focused application for data-driven insights</p>
+🔗 https://github.com/Yuvraj7061MAIT/FinanZ
+
 </div>
 
 <br/>
 <hr/>
 <br/>
+
+<h3 align="center">
+🚀 Building intelligent systems at the intersection of AI, data & clean energy
+</h3>
