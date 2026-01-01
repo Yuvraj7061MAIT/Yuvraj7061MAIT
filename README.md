@@ -1,34 +1,36 @@
 <img align="right" src="https://visitor-badge.laobi.icu/badge?page_id=Yuvraj7061MAIT.Yuvraj7061MAIT" />
 
-<h1 align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?font=Righteous&size=35&center=true&vCenter=true&width=600&height=70&duration=4000&lines=Hi+There!+👋;I'm+Yuvraj+Singh!;AI+Engineer+%7C+ML+%26+Data+Science" />
-</h1>
+<h1 align="center">Hi, I'm Yuvraj Singh</h1>
 
 <h3 align="center">
-AI Engineer @ CandiSolar ⚡ | SIH’23 & AYF’24 Winner 🏆 | ML • Data • Clean Energy
+AI Engineer | Machine Learning | Data Science | Clean Energy Systems
 </h3>
 
 <br/>
 
-<div align="center">
-
-🔭 **Currently working as an AI Engineer at CandiSolar**, building intelligent analytics systems for  
-real-time monitoring and performance optimization of solar power plants.
-
-🌱 **Currently learning**: Docker, scalable ML systems & production AI pipelines
-
-💬 Ask me about **Machine Learning, Data Science, NLP, Generative AI, Python, Java**  
-or explore my work 👉 [Repositories](https://github.com/Yuvraj7061MAIT?tab=repositories)
-
-⚡ **Fun fact:** I learned Machine Learning in just one month to qualify for an internal hackathon —  
-and ended up winning **Smart India Hackathon 2023** 🏆  
-Turns out, the only thing I hacked was *time* 😄
-
-</div>
+<p align="center">
+AI Engineer at <b>CandiSolar</b>, working on data-driven intelligence for large-scale solar power plants.
+I design and deploy machine learning systems that turn raw operational data into
+actionable insights for monitoring, forecasting, and performance optimization.
+</p>
 
 <br/>
 
-<div align="center"> 
+---
+
+### 👨‍💻 About Me
+
+- 🔭 **AI Engineer @ CandiSolar** — real-time analytics & ML systems for renewable energy  
+- 🏆 **Winner**: Smart India Hackathon 2023, Amity Youth Fest Hackathon 2024  
+- 🌱 Currently focused on **Docker, scalable ML systems & production pipelines**  
+- 💬 Ask me about **Machine Learning, NLP, Data Science, Python, Java, Generative AI**  
+- 📂 Explore my work: [GitHub Repositories](https://github.com/Yuvraj7061MAIT?tab=repositories)
+
+---
+
+### 🔗 Connect With Me
+
+<p align="left">
   <a href="mailto:yuvraj.singh.mait@gmail.com">
     <img src="https://img.shields.io/badge/Gmail-1f1f1f?style=for-the-badge&logo=gmail&logoColor=red" />
   </a>
@@ -38,77 +40,65 @@ Turns out, the only thing I hacked was *time* 😄
   <a href="https://portfolio-yuvraj-git-main-yuvraj7061maits-projects.vercel.app/" target="_blank">
     <img src="https://img.shields.io/badge/Portfolio-1f1f1f?style=for-the-badge&logo=google-chrome&logoColor=orange" />
   </a>
-</div>
+</p>
 
-<br/>
-<hr/>
-<br/>
+---
 
-<h2 align="center">⚒️ Tech Stack ⚒️</h2>
-<br/>
+### ⚒️ Tech Stack
 
-<div align="center">
+**Languages**  
+Python · Java · JavaScript · HTML · CSS  
 
-<img src="https://skillicons.dev/icons?i=python,java,js,html,css" /><br/>
-<img src="https://skillicons.dev/icons?i=tensorflow,pytorch,sklearn" /><br/>
-<img src="https://skillicons.dev/icons?i=flask,express,spring" /><br/>
-<img src="https://skillicons.dev/icons?i=mysql,postgres,azure" /><br/>
-<img src="https://skillicons.dev/icons?i=docker,postman,github" />
+**Machine Learning & AI**  
+TensorFlow · PyTorch · Scikit-Learn · NLP · LLMs  
 
-</div>
+**Backend & Frameworks**  
+Flask · Express.js · Spring Boot  
 
-<br/>
-<hr/>
-<br/>
+**Databases & Cloud**  
+MySQL · PostgreSQL · Azure  
 
-<h2 align="center">📈 GitHub Stats 📈</h2>
-<br/>
+**Tools & DevOps**  
+Docker · GitHub · Postman  
 
-<div align="center">
+---
+
+### 📈 GitHub Stats
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Yuvraj7061MAIT&show_icons=true&theme=radical" />
-  <br/><br/>
+</p>
+
+<p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yuvraj7061MAIT&theme=radical" />
-  <br/><br/>
+</p>
+
+<p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuvraj7061MAIT&layout=compact&theme=radical" />
-</div>
+</p>
 
-<br/>
-<hr/>
-<br/>
+---
 
-<h2 align="center">🚀 Featured Projects 🚀</h2>
-<br/>
+### 🚀 Selected Projects
 
-<div align="center">
-
-<h3>🎬 Movie Recommender System</h3>
-<p>ML-based recommendation engine using similarity models</p>
+#### 🎬 Movie Recommender System
+ML-based recommendation engine using similarity models  
 🔗 https://github.com/Yuvraj7061MAIT/movie_recommender
 
-<br/><br/>
-
-<h3>✍️ AI Blog Generator (LLama 2)</h3>
-<p>Generative AI tool for creating blogs using prompt engineering & LLMs</p>
+#### ✍️ AI Blog Generator (LLaMA 2)
+Generative AI application for blog creation using prompt engineering & LLMs  
 🔗 https://github.com/Yuvraj7061MAIT/Blog-Creator
 
-<br/><br/>
-
-<h3>💻 Indavo – Full Stack Platform</h3>
-<p>End-to-end full stack application with backend APIs & frontend UI</p>
+#### 💻 Indavo – Full Stack Platform
+End-to-end full stack application with backend APIs & frontend UI  
 🔗 https://github.com/Yuvraj7061MAIT/Indavo-FullStack
 
-<br/><br/>
-
-<h3>💰 FinanZ</h3>
-<p>Finance-focused application for data-driven insights</p>
+#### 💰 FinanZ
+Finance-focused application delivering data-driven insights  
 🔗 https://github.com/Yuvraj7061MAIT/FinanZ
 
-</div>
+---
 
-<br/>
-<hr/>
-<br/>
-
-<h3 align="center">
-🚀 Building intelligent systems at the intersection of AI, data & clean energy
-</h3>
+<p align="center">
+<b>Building reliable AI systems at the intersection of data, intelligence, and clean energy.</b>
+</p>
