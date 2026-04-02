@@ -111,17 +111,17 @@ Focused on building scalable retrieval pipelines, optimizing embeddings, and ens
 
 ## 📈 GitHub Analytics
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=Yuvraj7061MAIT&show_icons=true&theme=tokyonight" />
-</p>
+</p> -->
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Yuvraj7061MAIT&theme=tokyonight" />
 </p>
 
-<p align="center">
+<!-- <p align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Yuvraj7061MAIT&layout=compact&theme=tokyonight" />
-</p>
+</p> -->
 
 ---
 
@@ -134,9 +134,9 @@ Focused on building scalable retrieval pipelines, optimizing embeddings, and ens
   <a href="https://www.linkedin.com/in/yuvraj-singh-ml/">
     <img src="https://img.shields.io/badge/LinkedIn-111111?style=for-the-badge&logo=linkedin&logoColor=0A66C2" />
   </a>
-  <a href="https://portfolio-yuvraj-git-main-yuvraj7061maits-projects.vercel.app/">
+  <!-- <a href="https://portfolio-yuvraj-git-main-yuvraj7061maits-projects.vercel.app/">
     <img src="https://img.shields.io/badge/Portfolio-111111?style=for-the-badge&logo=google-chrome&logoColor=orange" />
-  </a>
+  </a> -->
 </p>
 
 ---
