@@ -71,7 +71,7 @@ AI Engineer at <b>CandiSolar</b> building <b>data-driven intelligence systems</b
 
 ---
 
-## 🚀 Selected Projects
+## 🚀 Recent Works 
 
 ### ⚡ Candipy – Internal Solar Analytics Python Package
 Designed and developed a modular Python package tailored for large-scale solar asset analytics, similar in philosophy to NumPy/Pandas but specialized for CandiSolar’s operational needs.  
