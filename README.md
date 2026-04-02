@@ -73,21 +73,39 @@ AI Engineer at <b>CandiSolar</b> building <b>data-driven intelligence systems</b
 
 ## 🚀 Selected Projects
 
-### 🎬 Movie Recommender System
-ML-based recommendation engine using similarity models  
-🔗 https://github.com/Yuvraj7061MAIT/movie_recommender  
+### ⚡ Candipy – Internal Solar Analytics Python Package
+Designed and developed a modular Python package tailored for large-scale solar asset analytics, similar in philosophy to NumPy/Pandas but specialized for CandiSolar’s operational needs.  
 
-### ✍️ AI Blog Generator (LLaMA 2)
-LLM-powered content generation using prompt engineering  
-🔗 https://github.com/Yuvraj7061MAIT/Blog-Creator  
+It provides standardized utilities for data ingestion, cleaning, transformation, and performance computation across multiple solar portfolios. The package enables consistent metric definitions, reusable pipelines, and faster development of analytics workflows.  
 
-### 💻 Indavo – Full Stack Platform
-End-to-end application with backend APIs & frontend UI  
-🔗 https://github.com/Yuvraj7061MAIT/Indavo-FullStack  
+Key contributions include building scalable abstractions for time-series processing, handling noisy sensor data, and creating reusable components for KPIs like PR, CUF, and loss analysis. This significantly reduced redundant code and improved reliability across internal analytics systems.
 
-### 💰 FinanZ
-Finance analytics platform delivering data-driven insights  
-🔗 https://github.com/Yuvraj7061MAIT/FinanZ  
+---
+
+### 🤖 Wattson AI – Full Stack Energy Intelligence Chatbot
+Developed a full stack AI chatbot designed to interact with solar asset data and provide actionable insights through natural language.  
+
+The system integrates a backend powered by LLMs with a responsive frontend interface, enabling users to query plant performance, diagnostics, and analytics in real time. It supports contextual understanding, structured data retrieval, and intelligent response generation.  
+
+Worked on designing the end-to-end architecture including API layers, prompt engineering, and integration with internal data sources, making complex energy analytics accessible through a conversational interface.
+
+---
+
+### 🌞 Soiling Estimator – ML-Based Performance Degradation System
+Built a machine learning system to estimate soiling losses and performance degradation in solar plants using historical generation and environmental data.  
+
+The solution involves identifying clean reference days, modeling expected generation, and quantifying deviations to estimate soiling impact. It addresses real-world challenges such as noisy data, missing values, and inconsistent sensor readings.  
+
+This system contributes to proactive maintenance strategies and helps improve plant efficiency by providing data-driven insights into cleaning requirements and loss trends.
+
+---
+
+### 💬 AM LLM Chatbot – Backend RAG-Based Intelligence System
+Engineered the backend of a Retrieval-Augmented Generation (RAG) chatbot for asset management workflows.  
+
+The system integrates vector search with LLMs to enable context-aware responses based on internal documents, operational data, and knowledge bases. It handles query processing, document retrieval, and response synthesis with high accuracy and relevance.  
+
+Focused on building scalable retrieval pipelines, optimizing embeddings, and ensuring reliable grounding of responses to reduce hallucinations, making it suitable for real-world enterprise usage.
 
 ---
 
